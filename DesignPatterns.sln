@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.MVC", "UI.MVC\UI.MVC.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Main", "UI.Main\UI.Main.csproj", "{EC90B539-D202-40AE-B3AD-CCCAEEB9FA66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrinciples", "SOLIDPrinciples\SOLIDPrinciples.csproj", "{DDA1C073-0AF4-4D91-B7EB-986892EFF21A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EC90B539-D202-40AE-B3AD-CCCAEEB9FA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC90B539-D202-40AE-B3AD-CCCAEEB9FA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC90B539-D202-40AE-B3AD-CCCAEEB9FA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA1C073-0AF4-4D91-B7EB-986892EFF21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA1C073-0AF4-4D91-B7EB-986892EFF21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA1C073-0AF4-4D91-B7EB-986892EFF21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA1C073-0AF4-4D91-B7EB-986892EFF21A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
